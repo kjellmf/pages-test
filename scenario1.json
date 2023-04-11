@@ -1,0 +1,602 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "dZ8b08YeOc",
+      "properties": {
+        "name": "NP",
+        "sidc": "10031000131211004600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.49508667798066,
+          -54.283319740386965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Ev1wliqyqA",
+      "properties": {
+        "name": "HMS Endurance",
+        "sidc": "10033000001205001900",
+        "description": "A Royal Navy ice patrol vessel that served from 1967 to 1991. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.46671251416015,
+          -54.24256045504427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LpBP1MLw8b",
+      "properties": {
+        "name": "NP E",
+        "sidc": "10031000131211004600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.493835,
+          -54.282815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1lNcQCawMZ",
+      "properties": {
+        "name": "British Antarctic Survey",
+        "shortName": "BAS",
+        "sidc": "10031102001100000000",
+        "description": "The British Antarctic Survey (BAS) is the United Kingdom's national polar research institute. It has a dual purpose, to conduct polar science, enabling better understanding of global issues, and to provide an active presence in the Antarctic on behalf of the UK. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.49445470967382,
+          -54.283293554297046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "L3qn46k1P9",
+      "properties": {
+        "name": "BAS Team",
+        "shortName": "BAS1",
+        "sidc": "10031100001103000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.68852253064409,
+          -54.14715926640066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Vvg9xmBKiG",
+      "properties": {
+        "name": "HMS Sheffield",
+        "shortName": "SHE",
+        "sidc": "10033040001202030000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.150140048356505,
+          -52.752119106842066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DNSpZc5oGg",
+      "properties": {
+        "name": "HMS Fearless",
+        "shortName": "FEA",
+        "sidc": "10033000001203010000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.139490323564374,
+          -51.49727767960482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BvwcW2uBrm",
+      "properties": {
+        "name": "HMS Intrepid",
+        "shortName": "INT",
+        "sidc": "10033000001203060000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.13777370979484,
+          -51.509459015174215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "me4LtjIhtM",
+      "properties": {
+        "name": "HMS Broadsword",
+        "shortName": "BRO",
+        "sidc": "10033000001202040000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.186182218095624,
+          -51.443170337741705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "x5YDPVA2NF",
+      "properties": {
+        "name": "HMS Brilliant",
+        "shortName": "BRI",
+        "sidc": "10033000001202040000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.173822598955,
+          -51.528258893873016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12ztMBWVbZ",
+      "properties": {
+        "name": "HMS Plymouth",
+        "shortName": "PLY",
+        "sidc": "10033000001202040000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.15184994270499,
+          -51.49535401316384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RdAy81IXKY",
+      "properties": {
+        "name": "HMS Argonaut",
+        "shortName": "ARG",
+        "sidc": "10033000001202040000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.19476528694327,
+          -51.45172912901623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TmpkuOe9HA",
+      "properties": {
+        "name": "HMS Yarmouth",
+        "shortName": "YAR",
+        "sidc": "10033000001202040000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.16592617561515,
+          -51.41577142400705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RIRCwVzPA9",
+      "properties": {
+        "name": "HMS Ardent",
+        "shortName": "ARD",
+        "sidc": "10033000001202040000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1302206092089,
+          -51.67774001315201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "I9gwazz9du",
+      "properties": {
+        "name": "40 Cdo",
+        "sidc": "10031000161211004600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.02439137031722,
+          -51.575277987286114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "qMsLMRj0el",
+      "properties": {
+        "name": "42 Cdo",
+        "sidc": "10031000161211004600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.991089063188305,
+          -51.49850664621707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1EoJikAifw",
+      "properties": {
+        "name": "45 Cdo",
+        "sidc": "10031000161211004600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.08601780464338,
+          -51.5648216429888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ulsGPqOgtR",
+      "properties": {
+        "name": "2 Para",
+        "sidc": "10031000161211000001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.01100178291491,
+          -51.615373893500085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iFcRlZGNtz",
+      "properties": {
+        "name": "3 Para",
+        "sidc": "10031000161211000001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.999843793412914,
+          -51.49733111362477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AC8ZMWwYvR",
+      "properties": {
+        "name": "ARA Comodoro Py",
+        "shortName": "D-27",
+        "sidc": "10033000001202030000",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.124558602371216,
+          -38.921489637879176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KLFoTRFuAB",
+      "properties": {
+        "name": "ARA Comodoro Segui",
+        "shortName": "D-25",
+        "sidc": "10033000001202030000",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.10773578742981,
+          -38.922558060636455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VDqHwIOuso",
+      "properties": {
+        "name": "ARA Guerrico",
+        "sidc": "10033000001202051900",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.49641,
+          -54.285671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "n4cQBRLpod",
+      "properties": {
+        "name": "ARA Hipólito Bouchard",
+        "shortName": "D-26",
+        "sidc": "10033000001202030000",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.10945240119934,
+          -38.91053737702328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57C8QDlA48",
+      "properties": {
+        "name": "ARA Piedra buena (D-29)",
+        "shortName": "D-29",
+        "sidc": "10033000001202030000",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.12524524787902,
+          -38.8995834259827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5G3UQJUa9e",
+      "properties": {
+        "name": "ARA Santa Fe",
+        "sidc": "10033500001101000000",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.986178639231525,
+          -38.99540201865318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "v1MIvqTJkj",
+      "properties": {
+        "name": "ARA Veinticinco de Mayo",
+        "shortName": "V-2",
+        "sidc": "10033000001201000000",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.13382831672671,
+          -38.910270227594424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "StgaVQO18b",
+      "properties": {
+        "name": "ARA Drummond",
+        "sidc": "10033000001202050000",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.01433110505183,
+          -38.99967115754452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "brruuJVSKS",
+      "properties": {
+        "name": "ARA Granville",
+        "sidc": "10033000001202050000",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.94909978180964,
+          -38.99113262219964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mhQX0REztU",
+      "properties": {
+        "name": "ARA General Belgrano",
+        "shortName": "Belgrano",
+        "sidc": "10033040001202020000",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.53,
+          -55.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FfAifXXyRE",
+      "properties": {
+        "name": "ARA Almirante Irízar",
+        "sidc": "10033000001301001900",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.474094,
+          -54.286774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rQVoXIJpJw",
+      "properties": {
+        "name": "ARA Bahía Buen Suceso",
+        "shortName": "B-6",
+        "sidc": "10033000001301000000",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.29874331690512,
+          -54.80851783108162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "V8ElpGSpvK",
+      "properties": {
+        "name": "ARA Bahía Paraíso",
+        "shortName": "",
+        "sidc": "10033000001301000000",
+        "description": "The ship operated as a naval auxiliary vessel from 1981 to 1986 and served in the Falklands War as a troop transport as well as hospital ship. It was involved in transporting troops to Leith Harbour prior to the Invasion of South Georgia. ",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.684097226005825,
+          -54.14272379683638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gAJzCZKNNd",
+      "properties": {
+        "name": "ARA Punta Médanos",
+        "shortName": "",
+        "sidc": "10033000001301100000",
+        "description": "",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.12078205207824,
+          -38.90946877327505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ks0mMcty6I",
+      "properties": {
+        "name": "Workers",
+        "sidc": "10031100001104000000",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.68911416889803,
+          -54.14095696852837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e2Dd1jHi3I",
+      "properties": {
+        "name": "A",
+        "sidc": "10031000161211000000",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.97594045601976,
+          -51.825991847559145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "wsQpmn3OGI",
+      "properties": {
+        "name": "B",
+        "sidc": "10031000161211000000",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.111871431119695,
+          -51.67344058266559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "zE8dqBnoiU",
+      "properties": {
+        "name": "C",
+        "sidc": "10031000161211000000",
+        "fillColor": "#aab074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.971863498317134,
+          -51.82771586853235
+        ]
+      }
+    }
+  ]
+}
