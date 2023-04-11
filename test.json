@@ -1,0 +1,59 @@
+{
+  "type": "ORBAT-mapper",
+  "version": "0.7.0",
+  "name": "New scenario",
+  "startTime": "2023-03-11T07:18:00+01:00",
+  "timeZone": "Europe/Oslo",
+  "description": "",
+  "symbologyStandard": "2525",
+  "sides": [
+    {
+      "id": "CpH06oqEKI",
+      "name": "Side 1",
+      "standardIdentity": "3",
+      "symbolOptions": {},
+      "groups": [
+        {
+          "id": "vxAfV61Suc",
+          "name": "Units",
+          "subUnits": [
+            {
+              "id": "9bobSqHQf0",
+              "name": "HQ",
+              "sidc": "10031000181210000000",
+              "subUnits": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bwv5GMGvks",
+      "name": "Side 2",
+      "standardIdentity": "6",
+      "symbolOptions": {},
+      "groups": [
+        {
+          "id": "XHSRiZJvIS",
+          "name": "Units",
+          "subUnits": [
+            {
+              "id": "UPBeJZzsZL",
+              "name": "HQ",
+              "sidc": "10061000181100000000",
+              "subUnits": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "name": "Features",
+      "id": "mEdgzMxWGP",
+      "features": []
+    }
+  ],
+  "events": []
+}
